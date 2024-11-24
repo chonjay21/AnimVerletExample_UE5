@@ -24,6 +24,7 @@ Find me at:
 <br />
 
 # Usage
+(This example requires the UE5.4.3 engine)
 
 1. Download AnimVerlet plugin from [GitHub](https://github.com/chonjay21/AnimVerlet)
 2. Put the "AnimVerlet" directory to your Project`s "Plugins" directory

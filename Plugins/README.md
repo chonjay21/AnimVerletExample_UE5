@@ -5,9 +5,9 @@
 * Support Cloth(cloak, cape, flag) simulation while respecting the animation pose.
 * Support String(hair, skirt)(one chain cloth) simulation while respecting the animation pose.
 * Support Blob, fluid like soft body simulation while respecting the animation pose.
-* Support custom collision(Sphere, Capsule, Box, Plain)
+* Support custom collision(Sphere, Capsule, Box, Plain) and support the feature to easily modify collision transforms in the preview editor
 * Support ball socket constraints(Cone angle constraints)
-* Use simple position based physics simulation(by Verlet Integration).
+* Use simple position based physics simulation or optionally use extended position based physics simulation (by Verlet Integration).
 * Minimize solve iterations by using a heuristic solve order.(1 iteration is usually sufficient)
 * Easy readable source code
 
@@ -17,6 +17,7 @@
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_UE5.png)
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_Short.gif)
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_Graph.gif)
+![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_String.gif)
 
 <br />
 
@@ -32,11 +33,11 @@ Find me at:
 
 The UnrealEngine versions supported by this plugin are:
 
-| Engine | Engine Version | AnimVerlet Version |
-| :----: | --- | --- |
-| UE4 | 4.27 or later | v.220628  |
-| UE5 | 5.0.2 ~ 5.2.1 | v.220628 |
-| UE5 | 5.3.0 ~ 5.4.3 or later | Latest |
+| Engine | Engine Version | Precompiled Version | SourceCode Version |
+| :----: | --- | --- | --- |
+| UE4 | 4.27 or later | v.220628 | Latest |
+| UE5 | 5.0.2 ~ 5.2.1 | v.220628 | Latest |
+| UE5 | 5.3.0 ~ 5.4.3 or later | Latest | Latest |
 
 <br />
 
