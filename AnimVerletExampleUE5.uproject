@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,12 +13,7 @@
 		},
 		{
 			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Enabled": true
 		}
 	]
 }
