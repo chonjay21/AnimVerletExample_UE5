@@ -27,12 +27,13 @@ Find me at:
 <br />
 
 # Usage
-(This example requires the UE5.7.1 engine)
+(This example requires the UE5.8.0 engine)
 
 1. Download AnimVerlet plugin from [GitHub](https://github.com/chonjay21/AnimVerlet)
 2. Put the "AnimVerlet" directory to your Project`s "Plugins" directory
 3. Use AnimVerlet Animation Node in Animation Blueprint
 4. You can choose preset in AnimVerlet Node(AnimationPose, Physics_XPBD, Physics_PBD) or customize each settings
+5. For detailed usage instructions, please refer to the following links: [English](https://github.com/chonjay21/AnimVerlet/blob/main/LKAnimNode_AnimVerlet_Tutorial.md) [Korean](https://github.com/chonjay21/AnimVerlet/blob/main/LKAnimNode_AnimVerlet_Tutorial_KO.md)
 
 <br />
 
